@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34869'
     url: http://www.gutenberg.org/2009/agents/34869
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28149#Her-Ladyship-s-Elephant
 gutenberg_issued: '2009-02-21'
 gutenberg_type: Text
 identifiers:
